@@ -1,3 +1,7 @@
 logs/*
 trained_model/*
 .DS_STORE
+id_*
+id_rsa.pub
+id_rsa
+*.pub
